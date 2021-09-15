@@ -16,7 +16,7 @@
     "unityinter": "Interstitial_Android",
     "adcolonyid": "app68c249c40f88406096",
     "adcolony": "vz4cc427f259db484398,vz943c1ab8c71b46c5a5,vza5b6bdf6080b4a8682",
-    "custom":{"image":"https://us.coca-cola.com/content/dam/coke2016/navheader/nav_coke.jpg","ad":"https://google.com"}
+    "custom":{"image":"https://us.coca-cola.com/content/dam/coke2016/navheader/nav_coke.jpg,https://lh6.googleusercontent.com/HW6PxLdAfMbKPpLpP-lIVhna5QnbskPTz_pLydSL5b7qrJ6X_3Vzq5bot8ad7GBZNbwy6eyBzxtjuWeUkeHdqgC9C36cuTC-2wGmVVNOs-peP5hfgjlQr4SAV-b04eXJ5SluB7b6","ad":"https://google.com,https://hmlivetv.com"}
   },
   "update": {
     "versioncode": "3",
