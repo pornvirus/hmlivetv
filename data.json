@@ -19,8 +19,8 @@
     "custom":{"image":"https://us.coca-cola.com/content/dam/coke2016/navheader/nav_coke.jpg,https://channelmyanmar.org/wp-content/uploads/2021/03/haobet-2.gif","ad":"https://google.com,https://hmlivetv.com"}
   },
   "update": {
-    "versioncode": "10",
+    "versioncode": "2",
     "link": "https://play.google.com/store/apps/details?id=com.flive.bestapp",
-    "force": true
+    "force": false
   }
 }
